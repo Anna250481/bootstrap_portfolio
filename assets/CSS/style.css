@@ -1,11 +1,58 @@
-body*{
-    background background-color: color: ;
+body{
+    background-color:brown;
 }
-container{
+/* container{
     background-color: blue;
     width: 800px;
-}
-header{
+} */
+/* header{
     background-color: gold;
+
+} */
+
+.container div div {
+    background-color:whitesmoke;
+    margin-top: 30px;
+}
+.pictures {
+width: 20%;
+height: 30%;
+}
+
+.project {
+    height: 100px;
+    width: auto;
+}
+
+.footer-text {
+ color: black;
+ text-align: center;
+}
+
+#my-footer {
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    border: solid 6px brown;
+}
+
+.navbar {
+    border: solid 6px brown;
+    height: 50px;
+    margin: 0 0 30px 0;
+    background-color: salmon;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+.footer-port {
+
+    background-color: whitesmoke;
+    height: 50px;
+    width: 100%;
+    border: solid 6px brown;
 
 }
